@@ -240,4 +240,4 @@ This repository serves as the official landing page for Internet Music Capture. 
 **Get the most recent version of Internet Music Capture today!**
 
 ---
-**Last updated:** 2026-10-31 22:22:23 UTC
+**Last updated:** 2026-11-01 01:45:40 UTC
